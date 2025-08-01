@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_exclude: false
 ---
 
 # CS294-262: Performance Analysis and Optimization of Computer Systems
