@@ -19,18 +19,16 @@ nav_exclude: false
 - CS168: Introduction to the Internet: Architecture and Protocols
 - CS186: Introduction to Database Systems
 - CS152: Computer Architecture and Engineering
-<br><br> 
 
 ---
 
-# Weekly Schedule
+## Weekly Schedule
 - **Lecture/Discussion**: Mondays and Fridays from 3:30pm to 5:00pm in 306 Soda.  
 - **Weekly Reading Reviews**: Due Mondays and Fridays @ noon pacific.
-<br><br> 
 
 ---
 
-# Syllabus 
+## Syllabus 
 Subject to change. 
 
 - **Friday, Aug 29: Introduction**
@@ -131,7 +129,7 @@ Subject to change.
 - **Friday, Dec 5: Project presentations**
 <br><br> 
 
-# Assignments and Grading
+## Assignments and Grading
 The course workload will consist of the following:
 
 - **25% of grade**: Each week, students will be required to read and provide a review of the week’s papers and attend and participate in the week’s discussion.
@@ -139,9 +137,8 @@ The course workload will consist of the following:
 
 - **25% of grade**: Each student will lead the discussion of two papers during the semester.  
 - **50% of grade**: Students will complete a semester-long research project, in groups of 2 or 3, related to the course material.
-<br><br> 
 
-# Instructor
+## Instructor
 <table border="0" style="border:none; box-shadow:none; background:none; margin:0; padding:0;">
   <tr>
     <td style="vertical-align:top; padding-right:24px; border:none; background:none; box-shadow:none;">
