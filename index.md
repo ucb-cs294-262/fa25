@@ -12,7 +12,7 @@ nav_exclude: false
 
 **Course Overview:** This course covers the principles and techniques required to analyze and improving the performance of computer systems. We will begin with classical topics such as caching, load balancing, and scheduling, before transitioning to modern challenges that must be overcome to enable efficiency and performance predictability in today’s large-scale, heterogeneous environments. Finally, we will survey how ideas from machine learning and programming languages can contribute novel insights and tools for system performance analysis. We will cover a diverse range of systems---including operating systems, distributed databases, data analytics frameworks, and LLM-serving platforms---to enable a holistic understanding of how to reason about and improve the performance of computer systems in practice.
 
-**Prerequisites:** Students must have previously taken at least two of the following courses:
+**Prerequisites:** Students must have previously taken at least two of the following courses or their equivalents:
 - CS262A: Advanced Topics in Computer Systems
 - CS268: Computer Networks
 - CS162: Operating Systems and Systems Programming
