@@ -139,3 +139,22 @@ The course workload will consist of the following:
 
 - **25% of grade**: Each student will lead the discussion of two papers during the semester.  
 - **50% of grade**: Students will complete a semester-long research project, in groups of 2 or 3, related to the course material.
+
+## Instructor
+
+<table>
+  <tr>
+    <td style="vertical-align:top; padding-right:24px;">
+      <img src="img/rishabh.jpg" alt="Instructor Photo" width="130" style="border-radius:50%;">
+    </td>
+    <td style="vertical-align:middle;">
+      <a href="https://rishabh246.github.io/">Rishabh Iyer</a><br>
+      <a href="mailto:rishabh.iyer@berkeley.edu">rishabh.iyer@berkeley.edu</a><br>
+      <b>Office Hours: </b> By appointment.
+    </td>
+  </tr>
+</table>
+
+
+
+
