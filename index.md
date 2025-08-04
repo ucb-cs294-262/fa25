@@ -10,7 +10,7 @@ nav_exclude: false
 
 **Location:** Monday and Friday, 3:30pm to 5:00pm in 306 Soda. 
 
-**Course Overview:** This course introduces the principles and techniques for analyzing and improving the performance of large-scale, heterogeneous computer systems. We’ll start with classical topics such as caching, load balancing, and scheduling, before moving to modern challenges in achieving efficiency and predictable performance in production environments. Finally, we will explore how ideas from machine learning and programming languages can offer new insights and tools for performance analysis. Case studies will span a diverse range of systems---including operating systems, distributed systems, hardware accelerators, and LLM-serving platforms--—to give students a holistic understanding of system performance. 
+**Course Overview:** This course introduces the principles and techniques for analyzing and improving the performance of large-scale, heterogeneous computer systems. We’ll start with classical topics such as caching, load balancing, and scheduling, before moving to modern challenges in achieving efficiency and predictable performance in production environments. Finally, we will explore how ideas from machine learning and programming languages can offer new insights and tools for performance analysis. Case studies will span a diverse range of systems---including operating systems, distributed systems, hardware accelerators, and LLM-serving platforms---to give students a holistic understanding of system performance. 
 
 **Prerequisites:** Students must have previously taken at least two of the following courses or their equivalents:
 - CS262A: Advanced Topics in Computer Systems
