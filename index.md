@@ -100,9 +100,9 @@ Subject to change.
     - [Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks](http://kayousterhout.org/publications/sosp17-final183.pdf)
     - [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757)
 <br><br> 
-- **Friday, Nov 7: Using ML to understand and optimize system performance: Initial efforts**
+- **Friday, Nov 7: Using ML to understand system performance**
     - [Ernest: Efficient Performance Prediction for Large-Scale Advanced Analytics](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-venkataraman.pdf)
-    - [Automated SmartNIC Offloading Insights for Network Functions](https://dl.acm.org/doi/pdf/10.1145/3477132.3483583)
+    - [On Modular Learning of Distributed Systems for Predicting End-to-End Latency](https://www.usenix.org/system/files/nsdi23-liang-chieh-jan.pdf)
 <br><br> 
 - **Monday, Nov 10: One model to rule them all**
     - [Principles and Methodologies for Serial Performance Optimization](https://www.usenix.org/system/files/osdi25-park-sujin.pdf)
