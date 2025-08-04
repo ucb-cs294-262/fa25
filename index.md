@@ -20,6 +20,8 @@ nav_exclude: false
 - CS186: Introduction to Database Systems
 - CS152: Computer Architecture and Engineering
 
+**Enrollment policy:** Graduate students may enroll directly. Undergraduate students who meet the above pre-requisites---or have other significant systems experience (e.g., via internships)---are also welcome and should [email Rishabh](mailto:rishabh.iyer@berkeley.edu) for enrollment.  
+
 ---
 
 ## Weekly Schedule
