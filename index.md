@@ -24,10 +24,11 @@ nav_exclude: false
 
 ---
 
-## Weekly Schedule
+## Logistics
 - **Lecture/Discussion**: Mondays and Fridays from 3:30pm to 5:00pm in 306 Soda.  
 - **Weekly Reading Reviews**: Due Mondays and Fridays @ noon pacific.
-
+- **Slides for Discussion**: Due Fridays and Wednesdays @ noon pacific for Mondays and Fridays respectively.
+- **Project Proposal**: Due Sep 22 @midnight pacific.
 ---
 
 ## Syllabus 
@@ -39,7 +40,7 @@ Subject to change.
 
 - **Friday, Sep 5: Caching: Replacement policies**
     - [ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf) 
-    - [FIFO can be Better than LRU: the Power of Lazy Promotion and Quick Demotion](https://dl.acm.org/doi/pdf/10.1145/3593856.3595887)
+    - [FIFO Queues are All You Need for Cache Eviction](https://junchengyang.com/publication/sosp23-s3fifo.pdf)
 <br><br> 
 - **Monday, Sep 8: Caching: Challenging assumptions**
     - [Caching with Delayed Hits](https://dl.acm.org/doi/pdf/10.1145/3387514.3405883)
@@ -55,7 +56,7 @@ Subject to change.
 <br><br> 
 - **Friday, Sep 19: CPU scheduling**
     - [ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks](https://marioskogias.github.io/docs/zygos.pdf)
-    - [Shinjuku: Preemptive Schedulingfor μsecond-scale Tail Latency](https://www.usenix.org/system/files/nsdi19-kaffes.pdf)
+    - [Shinjuku: Preemptive Scheduling for μsecond-scale Tail Latency](https://www.usenix.org/system/files/nsdi19-kaffes.pdf)
 <br><br> 
 - **Monday, Sep 22: Scheduling in LLM inference engines**
     - [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/system/files/osdi24-agrawal.pdf)
@@ -76,7 +77,6 @@ Subject to change.
 - **Monday, Oct 6: Rishabh away**
 <br><br> 
 - **Friday, Oct 10: Project check-in**
-    - Finalize project topics
 <br><br> 
 - **Monday, Oct 13: Rishabh away**
 <br><br> 
@@ -94,13 +94,13 @@ Subject to change.
     - [Overload Control for μs-scale RPCs with Breakwater](https://www.usenix.org/system/files/osdi20-cho.pdf)
     - [IODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage](https://ucare.cs.uchicago.edu/pdf/sosp21-ioda.pdf)
 <br><br> 
-- **Friday, Oct 31: Predicting system performance: Hardware accelerators**
-    - [Performance Interfaces for Hardware Accelerators](https://rishabh246.github.io/files/lpn.pdf)
-    - [Forecasting GPU Performance for Deep Learning Training and Inference](https://arxiv.org/abs/2407.13853)
-<br><br> 
-- **Monday, Nov 3: Software abstractions for performance predictability**
+- **Friday, Oct 31: Software abstractions for performance predictability**
     - [Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks](http://kayousterhout.org/publications/sosp17-final183.pdf)
     - [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757)
+<br><br> 
+- **Monday, Nov 3: Predicting system performance: Hardware accelerators**
+    - [Performance Interfaces for Hardware Accelerators](https://rishabh246.github.io/files/lpn.pdf)
+    - [Forecasting GPU Performance for Deep Learning Training and Inference](https://arxiv.org/abs/2407.13853)
 <br><br> 
 - **Friday, Nov 7: Using ML to understand system performance**
     - [Ernest: Efficient Performance Prediction for Large-Scale Advanced Analytics](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-venkataraman.pdf)
@@ -120,9 +120,7 @@ Subject to change.
     - [Performal: Formal Verification of Latency Properties for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3591235)
     - [Toward Formally Verifying Congestion Control Behavior](https://dl.acm.org/doi/pdf/10.1145/3452296.3472912)
 <br><br> 
-- **Monday, Nov 24: Encoding performance in the type system**
-    - [Modular Hardware Design with Timeline Types](https://people.csail.mit.edu/rachit/files/pubs/filament.pdf)
-    - [Nomos: A Protocol-Enforcing, Asset-Tracking, and Gas-Aware Language for Smart Contracts](https://www.cs.cmu.edu/~janh/assets/pdf/DasHP21.pdf)
+- **Monday, Nov 24: TBD**
 <br><br> 
 - **Friday, Nov 28: Work on project**
 <br><br> 
