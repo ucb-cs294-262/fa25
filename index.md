@@ -29,6 +29,7 @@ nav_exclude: false
 - **Weekly Reading Reviews**: Due Mondays and Fridays @ noon pacific.
 - **Slides for Discussion**: Due Fridays and Wednesdays @ noon pacific for Mondays and Fridays respectively.
 - **Project Proposal**: Due Sep 22 @midnight pacific.
+
 ---
 
 ## Syllabus 
