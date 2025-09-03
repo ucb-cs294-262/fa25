@@ -23,10 +23,15 @@ nav_exclude: false
 **Enrollment policy:** Graduate students may enroll directly. Undergraduate students who meet the above pre-requisites---or have other significant systems experience (e.g., via internships)---are also welcome and should [email Rishabh](mailto:rishabh.iyer@berkeley.edu) for enrollment.  
 
 ---
+## Resources
+- **Lecture Slides**: [Link](https://drive.google.com/drive/folders/1_ZMAU9w8t28ghs84jXd9ZlLL3uI90xk9?usp=sharing).
+- **Review form**: [Link](https://forms.gle/1k4rdbpun7Kn1LQF6).
+
+---
 
 ## Logistics
-- **Lecture/Discussion**: Mondays and Fridays from 3:30pm to 5:00pm in 306 Soda. Slides can be found [here](https://drive.google.com/drive/folders/1_ZMAU9w8t28ghs84jXd9ZlLL3uI90xk9?usp=sharing).
-- **Weekly Reading Reviews**: Due Mondays and Fridays @ noon pacific. Review form can be found [here](https://forms.gle/1k4rdbpun7Kn1LQF6).
+- **Lecture/Discussion**: Mondays and Fridays from 3:30pm to 5:00pm in 306 Soda.
+- **Weekly Reading Reviews**: Due Mondays and Fridays @ noon pacific. 
 - **Project Proposal**: Due Sep 22 @midnight pacific.
 
 ---
