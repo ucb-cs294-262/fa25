@@ -25,9 +25,8 @@ nav_exclude: false
 ---
 
 ## Logistics
-- **Lecture/Discussion**: Mondays and Fridays from 3:30pm to 5:00pm in 306 Soda.  
-- **Weekly Reading Reviews**: Due Mondays and Fridays @ noon pacific.
-- **Slides for Discussion**: Due Fridays and Wednesdays @ noon pacific for Mondays and Fridays respectively.
+- **Lecture/Discussion**: Mondays and Fridays from 3:30pm to 5:00pm in 306 Soda. Slides can be found [here](https://drive.google.com/drive/folders/1_ZMAU9w8t28ghs84jXd9ZlLL3uI90xk9?usp=sharing).
+- **Weekly Reading Reviews**: Due Mondays and Fridays @ noon pacific. Review form can be found [here](https://forms.gle/1k4rdbpun7Kn1LQF6).
 - **Project Proposal**: Due Sep 22 @midnight pacific.
 
 ---
