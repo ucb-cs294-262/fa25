@@ -49,7 +49,7 @@ Subject to change.
 <br><br> 
 - **Monday, Sep 8: Caching: Challenging assumptions**
     - [Caching with Delayed Hits](https://dl.acm.org/doi/pdf/10.1145/3387514.3405883)
-    - [Applying Deep Learning to the Cache Replacement Problem](https://www.cs.utexas.edu/~lin/papers/micro19c.pdf)
+    - [Applying Deep Learning to the Cache Replacement Problem](papers/deep-learning-cache.pdf)
 <br><br> 
 - **Friday, Sep 12: Load balancing requests**
     - The Power of Two Random Choices [[1]](https://brooker.co.za/blog/2012/01/17/two-random.html)[[2]](https://www.haproxy.com/blog/power-of-two-load-balancing)[[3]](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf) 
