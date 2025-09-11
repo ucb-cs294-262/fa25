@@ -52,8 +52,9 @@ Subject to change.
     - [Applying Deep Learning to the Cache Replacement Problem](papers/deep-learning-cache.pdf)
 <br><br> 
 - **Friday, Sep 12: Load balancing requests**
-    - The Power of Two Random Choices [[1]](https://brooker.co.za/blog/2012/01/17/two-random.html)[[2]](https://www.haproxy.com/blog/power-of-two-load-balancing)[[3]](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf) 
+    - The Power of Two Random Choices [[1]](https://brooker.co.za/blog/2012/01/17/two-random.html)[[2]](https://www.haproxy.com/blog/power-of-two-load-balancing)
     - [Load Is Not What You Should Balance: Introducing Prequal](https://www.usenix.org/system/files/nsdi24-wydrowski.pdf)
+    - Optional reading: [Power of Two Random Choices: A Survey of Techniques and Results](https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf) 
 <br><br> 
 - **Monday, Sep 15: Load balancing connections**
     - [Maglev: A Fast and Reliable Software Network Load Balancer](https://www.usenix.org/sites/default/files/nsdi16-paper-eisenbud.pdf)
