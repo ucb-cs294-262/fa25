@@ -58,7 +58,6 @@ Subject to change.
 <br><br> 
 - **Monday, Sep 15: Load balancing connections**
     - [Maglev: A Fast and Reliable Software Network Load Balancer](https://www.usenix.org/sites/default/files/nsdi16-paper-eisenbud.pdf)
-    - [A High-Speed Load-Balancer Design with Guaranteed Per-Connection-Consistency](https://www.usenix.org/system/files/nsdi20-paper-barbette.pdf)
 <br><br> 
 - **Friday, Sep 19: CPU scheduling**
     - [ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks](https://marioskogias.github.io/docs/zygos.pdf)
