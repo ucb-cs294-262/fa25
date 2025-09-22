@@ -67,21 +67,22 @@ Subject to change.
     - [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/system/files/osdi24-agrawal.pdf)
     - [Fast Distributed Inference Serving for Large Language Models](https://arxiv.org/pdf/2305.05920)
 <br><br> 
-- **Friday, Sep 26: Packet scheduling**
-    - [Universal Packet Scheduling](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-mittal.pdf)
-    - [Programmable Packet Scheduling at Line Rate](https://dl.acm.org/doi/pdf/10.1145/2934872.2934899)
+- **Friday, Sep 26: Performance isolation**
+    - [Caladan: Mitigating Interference at Microsecond Timescales](https://www.usenix.org/system/files/osdi20-fried.pdf)
+    - [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized
+Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-yinmin.pdf)
 <br><br> 
-- **Monday, Sep 29: Fair scheduling**
+- **Monday, Sep 29: Fairness**
     - [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](https://www.usenix.org/legacy/events/nsdi11/tech/full_papers/Ghodsi.pdf)
     - [Fair CPU scheduling](https://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf)
 <br><br> 
-- **Friday, Oct 3: Performance isolation**
-    - [Caladan: Mitigating Interference at Microsecond Timescales](https://www.usenix.org/system/files/osdi20-fried.pdf)
-    - [PicNIC: Predictable Virtualized NIC](https://dl.acm.org/doi/pdf/10.1145/3341302.3342093)
+- **Friday, Sep 29: Packet scheduling**
+    - [Universal Packet Scheduling](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-mittal.pdf)
+    - [Programmable Packet Scheduling at Line Rate](https://dl.acm.org/doi/pdf/10.1145/2934872.2934899)
 <br><br> 
 - **Monday, Oct 6: Rishabh away**
 <br><br> 
-- **Friday, Oct 10: Project check-in**
+- **Friday, Oct 10: TBD**
 <br><br> 
 - **Monday, Oct 13: Rishabh away**
 <br><br> 
