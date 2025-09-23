@@ -83,7 +83,7 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
 <br><br> 
 - **Monday, Oct 6: Rishabh away**
 <br><br> 
-- **Friday, Oct 10: TBD**
+- **Friday, Oct 10: Midterm**
 <br><br> 
 - **Monday, Oct 13: Rishabh away**
 <br><br> 
