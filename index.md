@@ -26,13 +26,14 @@ nav_exclude: false
 ## Resources
 - **Lecture Slides**: [Link](https://drive.google.com/drive/folders/1_ZMAU9w8t28ghs84jXd9ZlLL3uI90xk9?usp=sharing).
 - **Review form**: [Link](https://forms.gle/1k4rdbpun7Kn1LQF6).
+- **Project proposal form**: [Link](https://forms.gle/URsu2SDTqYp5Lwo4A)
 
 ---
 
 ## Logistics
 - **Lecture/Discussion**: Mondays and Fridays from 3:30pm to 5:00pm in 306 Soda.
 - **Weekly Reading Reviews**: Due Mondays and Fridays @ noon pacific. 
-- **Project Proposal**: Due Sep 22 @midnight pacific.
+- **Project Proposal**: Due Sep 30 @midnight pacific.
 
 ---
 
