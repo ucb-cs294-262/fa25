@@ -126,9 +126,9 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
     - [Performal: Formal Verification of Latency Properties for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3591235)
     - [Toward Formally Verifying Congestion Control Behavior](https://dl.acm.org/doi/pdf/10.1145/3452296.3472912)
 <br><br> 
-- **Monday, Nov 24: TBD**
+- **Monday, Nov 24: Work on project**
 <br><br> 
-- **Friday, Nov 28: Work on project**
+- **Friday, Nov 28: Thanksgiving**
 <br><br> 
 - **Monday, Dec 1: Project presentations**
 <br><br> 
