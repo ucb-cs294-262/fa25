@@ -80,13 +80,13 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
     - [Universal Packet Scheduling](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-mittal.pdf)
     - [Programmable Packet Scheduling at Line Rate](https://dl.acm.org/doi/pdf/10.1145/2934872.2934899)
 <br><br> 
-- **Monday, Oct 6: Rishabh away**
+- **Monday, Oct 6: No class. Prepare for midterm.**
 <br><br> 
 - **Friday, Oct 10: Midterm**
 <br><br> 
-- **Monday, Oct 13: Rishabh away**
+- **Monday, Oct 13: No class. Work on projects**
 <br><br> 
-- **Friday, Oct 17: Rishabh away**
+- **Friday, Oct 17: No class. Work on projects.**
 <br><br> 
 - **Monday, Oct 20: Predictable performance by design: Transactional DBs**
     - [A Top-Down Approach to Achieving Performance Predictability in Database Systems](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2017_predictability.pdf)
@@ -126,7 +126,7 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
     - [Performal: Formal Verification of Latency Properties for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3591235)
     - [Toward Formally Verifying Congestion Control Behavior](https://dl.acm.org/doi/pdf/10.1145/3452296.3472912)
 <br><br> 
-- **Monday, Nov 24: Work on project**
+- **Monday, Nov 24: Work on projects**
 <br><br> 
 - **Friday, Nov 28: Thanksgiving**
 <br><br> 
