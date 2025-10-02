@@ -76,7 +76,7 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
 - **Monday, Sep 29: Fairness**
     - [Dominant Resource Fairness: Fair Allocation of Multiple Resource Types](https://www.usenix.org/legacy/events/nsdi11/tech/full_papers/Ghodsi.pdf)
 <br><br> 
-- **Friday, Sep 29: Packet scheduling**
+- **Friday, Oct 3: Packet scheduling**
     - [Universal Packet Scheduling](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-mittal.pdf)
     - [Programmable Packet Scheduling at Line Rate](https://dl.acm.org/doi/pdf/10.1145/2934872.2934899)
 <br><br> 
