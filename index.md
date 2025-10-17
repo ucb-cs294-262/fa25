@@ -88,31 +88,29 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
 <br><br> 
 - **Friday, Oct 17: No class. Work on projects.**
 <br><br> 
-- **Monday, Oct 20: Predictable performance by design: Transactional DBs**
+- **Monday, Oct 20: Midterm discussion**
+<br><br> 
+- **Friday, Oct 24: Predictable performance by design: Transactional DBs**
     - [A Top-Down Approach to Achieving Performance Predictability in Database Systems](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2017_predictability.pdf)
     - [Contention-Aware Lock Scheduling for Transactional Databases](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2017_predictability.pdf)
-<br><br> 
-- **Friday, Oct 24: Performance predictablity for, and using, ML**
-    - [Serving DNNs like Clockwork: Performance Predictability from the Bottom Up](https://www.usenix.org/system/files/osdi20-gujarati.pdf)
+<br><br>
+- **Monday, Oct 27: Predictable storage**
     - [LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)
-<br><br> 
-- **Monday, Oct 27: Ensuring predictable performance by avoiding overload**
-    - [Overload Control for μs-scale RPCs with Breakwater](https://www.usenix.org/system/files/osdi20-cho.pdf)
     - [IODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage](https://ucare.cs.uchicago.edu/pdf/sosp21-ioda.pdf)
 <br><br> 
 - **Friday, Oct 31: Software abstractions for performance predictability**
     - [Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks](http://kayousterhout.org/publications/sosp17-final183.pdf)
     - [NanoFlow: Towards Optimal Large Language Model Serving Throughput](https://arxiv.org/abs/2408.12757)
 <br><br> 
-- **Monday, Nov 3: Predicting system performance: Hardware accelerators**
-    - [Performance Interfaces for Hardware Accelerators](https://rishabh246.github.io/files/lpn.pdf)
+- **Monday, Nov 3: Predicting system performance: Hardware**
+    - [Concorde: Fast and Accurate CPU Performance Modeling with Compositional Analytical-ML Fusion](https://arxiv.org/abs/2503.23076)
     - [Forecasting GPU Performance for Deep Learning Training and Inference](https://arxiv.org/abs/2407.13853)
 <br><br> 
-- **Friday, Nov 7: Using ML to understand system performance**
+- **Friday, Nov 7: Using ML to understand distributed system performance**
     - [Ernest: Efficient Performance Prediction for Large-Scale Advanced Analytics](https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-venkataraman.pdf)
     - [On Modular Learning of Distributed Systems for Predicting End-to-End Latency](https://www.usenix.org/system/files/nsdi23-liang-chieh-jan.pdf)
 <br><br> 
-- **Monday, Nov 10: One model to rule them all**
+- **Monday, Nov 10: One model to rule them all?**
     - [Principles and Methodologies for Serial Performance Optimization](https://www.usenix.org/system/files/osdi25-park-sujin.pdf)
 <br><br> 
 - **Friday, Nov 14: Is performance prediction a solved problem?**
