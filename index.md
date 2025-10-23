@@ -92,7 +92,7 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
 <br><br> 
 - **Friday, Oct 24: Predictable performance by design: Transactional DBs**
     - [A Top-Down Approach to Achieving Performance Predictability in Database Systems](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2017_predictability.pdf)
-    - [Contention-Aware Lock Scheduling for Transactional Databases](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2017_predictability.pdf)
+    - [Contention-Aware Lock Scheduling for Transactional Databases](https://www.vldb.org/pvldb/vol11/p648-tian.pdf)
 <br><br>
 - **Monday, Oct 27: Predictable storage**
     - [LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)
