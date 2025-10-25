@@ -96,7 +96,6 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
 <br><br>
 - **Monday, Oct 27: Predictable storage**
     - [LinnOS: Predictability on Unpredictable Flash Storage with a Light Neural Network](https://www.usenix.org/system/files/osdi20-hao.pdf)
-    - [IODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage](https://ucare.cs.uchicago.edu/pdf/sosp21-ioda.pdf)
 <br><br> 
 - **Friday, Oct 31: Software abstractions for performance predictability**
     - [Monotasks: Architecting for Performance Clarity in Data Analytics Frameworks](http://kayousterhout.org/publications/sosp17-final183.pdf)
