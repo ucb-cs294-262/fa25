@@ -118,7 +118,7 @@ Text-to-Text Regression](https://arxiv.org/pdf/2506.21718)
     - [Regression Language Models for Code](https://arxiv.org/pdf/2509.26476)
 <br><br> 
 - **Monday, Nov 17: Agent-driven optimization of system performance**
-    - [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://www.usenix.org/system/files/nsdi24-namyar-finding.pdf)
+    - [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/pdf/2510.27176)
 <br><br> 
 - **Friday, Nov 21: Work on projects**
 <br><br> 
