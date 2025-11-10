@@ -113,15 +113,14 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
     - [Principles and Methodologies for Serial Performance Optimization](https://www.usenix.org/system/files/osdi25-park-sujin.pdf)
 <br><br> 
 - **Friday, Nov 14: Is performance prediction a solved problem?**
-    - [Simulating Large Systems with Regression Language Models](https://research.google/blog/simulating-large-systems-with-regression-language-models/)
+    - [Performance Prediction for Large Systems via
+Text-to-Text Regression](https://arxiv.org/pdf/2506.21718)
+    - [Regression Language Models for Code](https://arxiv.org/pdf/2509.26476)
 <br><br> 
-- **Monday, Nov 17: Using PLFM techniques to find performance bugs**
-    - [Finding Adversarial Inputs for Heuristics using Multi-level Optimization](https://www.usenix.org/system/files/nsdi24-namyar-finding.pdf)
-    - [Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution](https://www.usenix.org/system/files/osdi20-hu.pdf)
+- **Monday, Nov 17: Agent-driven optimization of system performance**
+    - [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://www.usenix.org/system/files/nsdi24-namyar-finding.pdf)
 <br><br> 
-- **Friday, Nov 21: Formally verifying performance properties**
-    - [Performal: Formal Verification of Latency Properties for Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/3591235)
-    - [Toward Formally Verifying Congestion Control Behavior](https://dl.acm.org/doi/pdf/10.1145/3452296.3472912)
+- **Friday, Nov 21: Work on projects**
 <br><br> 
 - **Monday, Nov 24: Work on projects**
 <br><br> 
