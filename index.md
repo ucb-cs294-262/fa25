@@ -112,15 +112,15 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
 - **Monday, Nov 10: One model to rule them all?**
     - [Principles and Methodologies for Serial Performance Optimization](https://www.usenix.org/system/files/osdi25-park-sujin.pdf)
 <br><br> 
-- **Friday, Nov 14: Agent-driven optimization of system performance**
-    - [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/pdf/2510.27176)
+- **Friday, Nov 14: Guest Lecture (Audrey Cheng, UC Berkeley): AI-Driven Research for Systems**
 <br><br>
-- **Monday, Nov 17: Is performance prediction a solved problem?**
+- **Monday, Nov 17: Designing agents for optimizing system performance**
+  - [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/pdf/2510.27176)
+<br><br> 
+- **Friday, Nov 21: Is performance prediction a solved problem?**
     - [Performance Prediction for Large Systems via
 Text-to-Text Regression](https://arxiv.org/pdf/2506.21718)
     - [Regression Language Models for Code](https://arxiv.org/pdf/2509.26476)
-<br><br> 
-- **Friday, Nov 21: Work on projects**
 <br><br> 
 - **Monday, Nov 24: Work on projects**
 <br><br> 
