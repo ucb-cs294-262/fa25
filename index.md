@@ -118,12 +118,9 @@ Large Language Model Serving](https://www.usenix.org/system/files/osdi24-zhong-y
 - **Monday, Nov 17: Designing agents for optimizing system performance**
   - [Glia: A Human-Inspired AI for Automated Systems Design and Optimization](https://arxiv.org/pdf/2510.27176)
 <br><br> 
-- **Friday, Nov 21: Is performance prediction a solved problem?**
-    - [Performance Prediction for Large Systems via
-Text-to-Text Regression](https://arxiv.org/pdf/2506.21718)
-    - [Regression Language Models for Code](https://arxiv.org/pdf/2509.26476)
+- **Friday, Nov 21: Work on projects**
 <br><br> 
-- **Monday, Nov 24: Work on projects**
+- **Monday, Nov 24: No class. Rishabh away**
 <br><br> 
 - **Friday, Nov 28: Thanksgiving**
 <br><br> 
